@@ -1,0 +1,25 @@
+{
+  "name": "scrape-bot",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@crxjs/vite-plugin": "^1.0.14",
+    "@iconify/json": "^2.2.95",
+    "vite-plugin-chrome-extension": "^0.0.7",
+    "vite-plugin-components": "^0.13.3",
+    "vite-plugin-icons": "^0.6.5",
+    "axios": "^1.4.0",
+    "core-js": "^3.8.3",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.4.5"
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Srape-Bot",
+    "description": "",
+    "version": "1.0.0",
+    "permissions": ["bookmarks", "activeTab", "tabs", "storage"],
+    "action": {
+        "default_popup": "index.html"
+    }
+}
